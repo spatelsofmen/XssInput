@@ -1,5 +1,5 @@
 {
-    "name": "frozennode/xssinput",
+    "name": "spatelsofmen/xssinput",
     "description": "A simple extension of the Laravel Input facade that mimics CodeIgniter's xss filtering",
     "keywords": ["laravel", "xss"],
     "license": "MIT",
